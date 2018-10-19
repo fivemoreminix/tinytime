@@ -1,7 +1,7 @@
 The goal of tinytime is to offer a variety of solutions for timing. All of the solutions are very simple and ready for modification or adjustment. All solutions focus on timing precisely. Some solutions may be more accurate than others.
 
 # Usage
-You can use the Python (2 or 3) solutions for quick use, or compile the C or Rust solutions. All of the solutions have the same options and syntax.
+You can use the Python (2 or 3) solutions for quick use, or compile the Rust solution. All of the solutions have the same options and syntax.
 
 ```
 USAGE: tinytime <COMMAND>
